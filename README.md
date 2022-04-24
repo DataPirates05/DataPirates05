@@ -1,0 +1,2 @@
+- 👋 Hi, We are @DataPirates05
+- 👀 We are a team of 6 full stack java developers
